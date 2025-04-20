@@ -21,5 +21,6 @@ class Ex1
 	{
 		System.out.println("hello java");
 		//要跑出字要打javac -encoding utf-8 檔名.java	
+		//haha
 	}
 }
